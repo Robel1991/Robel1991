@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Robel1991/Robel1991 is a ✨ special ✨ repository because its `README.md` (@Filetodirectlink) appears on your GitHub profile.
+Robel1991/Robel1991 is a ✨ special ✨ repository because its `README.md` (@File to direct link) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
